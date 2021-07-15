@@ -1,7 +1,4 @@
-### Hi there 👋
-
-Here are some ideas to get you started:
-
+### Hi there, I'm Sai Gopi 👋
 - 🔭 I’m currently working on Freelancing Projects
 - 🌱 I’m currently learning Node.js
 - 👯 I’m looking to collaborate on youtube
